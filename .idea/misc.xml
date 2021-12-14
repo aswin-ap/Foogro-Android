@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/drawable-ldpi/ic_orders.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/drawable/ic_checkbox.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/drawable/ic_eye_visible.xml" value="0.1" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_address.xml" value="0.18" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_cart.xml" value="0.16" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_home.xml" value="0.16" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_order_details.xml" value="0.15" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_order_success.xml" value="0.12" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_order_summary.xml" value="0.18" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_payment.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_restaurant.xml" value="0.14" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/add_cart_view.xml" value="0.1" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/cart_clear_layout.xml" value="0.2" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/dialog_loading_layout.xml" value="0.1" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/header_layout.xml" value="0.18" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/inc_dec_view.xml" value="0.1" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/item_cart_product.xml" value="0.5" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/item_food.xml" value="0.33" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/item_order.xml" value="0.25" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/item_order_summary.xml" value="0.18" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/item_shop.xml" value="0.18" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/item_shop_small.xml" value="0.1" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/layout_log_out.xml" value="0.2" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/layout/shimmering_item_shop.xml" value="0.1" />
+        <entry key="..\:/Users/AlignMinds/AndroidStudioProjects/foodapp/app/src/main/res/menu/drawer_menu.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable-hdpi/bg_rounded_grey.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-hdpi/ic_debit.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/bg_rounded.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_add.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_call_white.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_drawer_log_out.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_drawer_past_rides.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_drawer_search_small.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_food.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_info.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_menu_white_24dp.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_minus.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_online_groceris.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_star.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/ic_star_white.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable-v24/rounded_right_corner_light_white_rectangle.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable/bg_rounded_stroke.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable/color_cursor.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable/ic_shopping_cart.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable/ic_signup.xml" value="0.1703125" />
+        <entry key="app/src/main/res/drawable/nav_drawer_background.xml" value="0.1703125" />
+        <entry key="app/src/main/res/font/poppins.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/activity_address.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_cart.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.17" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.15416666666666667" />
+        <entry key="app/src/main/res/layout/activity_order_details.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_order_success.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_order_summary.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_payment.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/layout/activity_restaurant.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/add_cart_view.xml" value="0.15416666666666667" />
+        <entry key="app/src/main/res/layout/cart_clear_layout.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/dialog_loading_layout.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/fragment_no_internet.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/header_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/inc_dec_view.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_cart_product.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/item_food.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/item_order_summary.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_shop.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_shop_small.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/shimmering_item_shop.xml" value="0.15416666666666667" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

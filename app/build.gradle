@@ -1,0 +1,79 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+def libs = rootProject.ext.libraries
+
+android {
+    compileSdk 31
+
+    defaultConfig {
+        applicationId "com.example.foodappandroid"
+        minSdk 21
+        targetSdk 31
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+}
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+    implementation 'com.google.firebase:firebase-firestore:21.4.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    // loader shows
+    implementation "com.wang.avi:library:${libs.avi_library}"
+
+    //Glide
+    implementation "com.github.bumptech.glide:glide:${libs.glide}"
+
+    //Kotlin Coroutines
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:${libs.coroutines}"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:${libs.coroutines}"
+    annotationProcessor "android.arch.persistence.room:compiler:1.1.1"
+
+    //Android Room
+    implementation "androidx.room:room-runtime:${libs.roomVersion}"
+    implementation "androidx.room:room-ktx:${libs.roomVersion}"
+    androidTestImplementation "androidx.room:room-testing:${libs.roomVersion}"
+
+    //Swiperefreshlayout
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
+
+    //Facebook Shimmer
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+    //Lottie
+    implementation 'com.airbnb.android:lottie:3.4.0'
+
+    //gson
+    implementation 'com.google.code.gson:gson:2.8.8'
+
+
+
+
+}
